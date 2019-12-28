@@ -1,0 +1,8 @@
+C:\Users\lvzhi\source\repos\CalDay\bin\Debug\CalDay.exe.config
+C:\Users\lvzhi\source\repos\CalDay\bin\Debug\CalDay.exe
+C:\Users\lvzhi\source\repos\CalDay\bin\Debug\CalDay.pdb
+C:\Users\lvzhi\source\repos\CalDay\obj\Debug\CalDay.Properties.Resources.resources
+C:\Users\lvzhi\source\repos\CalDay\obj\Debug\CalDay.csproj.GenerateResource.cache
+C:\Users\lvzhi\source\repos\CalDay\obj\Debug\CalDay.exe
+C:\Users\lvzhi\source\repos\CalDay\obj\Debug\CalDay.pdb
+C:\Users\lvzhi\source\repos\CalDay\obj\Debug\CalDay.CalDayFrm.resources
